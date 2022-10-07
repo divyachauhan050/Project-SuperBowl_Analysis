@@ -3,7 +3,6 @@
 This project analyzes the evolution of viewership, TV ratings, and ad cost for all 52 Super Bowls through 2018 (**until SuperBowl LII**).
 
 ## About the Datasets
-About the datasets:
 I have used three different datasets (courtesy of Datacamp).
 
 1. **‘super_bowls.csv’** contains the details about the game data such as the date, SuperBowl #, venue details, live attendance, and the winning and losing team details.
